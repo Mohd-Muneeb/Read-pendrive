@@ -1,0 +1,18 @@
+{
+  "name": "induction-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Muneeb Mohd",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "drivelist": "^11.0.0",
+    "nodemon": "^2.0.18",
+    "usb": "^2.4.3",
+    "usb-detection": "^4.14.1"
+  }
+}
